@@ -1,4 +1,4 @@
-body {
+ body {
     background-color: black;
     font-family: helvetica, sans-serif;
     font-size: 22px;
@@ -55,7 +55,7 @@ ul {
 /*section mission*/
 
 .main {
-    background-image: url(/Ressources/images/img-mission-background.jpg);
+    background-image: url(../Ressources/images/img-mission-background.jpg);
     height: 700px;
     width: 1200px;
     background-size: cover;
